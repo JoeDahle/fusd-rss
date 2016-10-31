@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import FeedComponent from './FeedComponent';
+import style from './sass/main.scss';
 
 var App = React.createClass({
   render: function(){
